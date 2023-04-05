@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devendram1" alt="devendram1" /></a> </p>
 
-- 🔭 I’m currently working on **Ritu Generator**
+- 🔭 I’m currently working on **Login Registration **
 
 - 🌱 I’m currently learning **HTML CSS BOOTSRTAP JAVASCRIPT REACTJS**
 
